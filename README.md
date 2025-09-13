@@ -1,6 +1,6 @@
 # tiny11builder
 *Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!*
-
+这是一个win 11极简工具
 ## Introduction :
 Tiny11 builder, now completely overhauled. <br> After more than a year (for which I am so sorry) of no updates, tiny11 builder is now a much more complete and flexible solution - one script fits all. Also, it is a steppingstone for an even more fleshed-out solution.
 
